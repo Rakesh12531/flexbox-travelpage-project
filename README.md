@@ -59,7 +59,7 @@ Watch the video to see how Flexbox flexes its muscles 💪🌍
 Wanna see it in action without touching your keyboard? Click below 👇  
 Live now on GitHub Pages:
 
-🔗 [Nexus Travel Landing Page - Live Demo](https://rakesh12531.github.io/nexus-travel/)
+🔗 [Nexus Travel Landing Page - Live Demo](https://rakesh12531.github.io/flexbox-travelpage-project/)
 
 <hr/>
 
