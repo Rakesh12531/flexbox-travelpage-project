@@ -54,6 +54,15 @@ Watch the video to see how Flexbox flexes its muscles 💪🌍
 
 <hr/>
 
+## 🚀 Live Demo
+
+Wanna see it in action without touching your keyboard? Click below 👇  
+Live now on GitHub Pages:
+
+🔗 [Nexus Travel Landing Page - Live Demo](https://rakesh12531.github.io/nexus-travel/)
+
+<hr/>
+
 ## 💡 What I Learned
 
 - Flexbox layout techniques
